@@ -1,4 +1,4 @@
-```markdown
+
 # Ominimo Blog Application
 
 A modern, full-stack blog application built with **Laravel**, **Inertia.js**, and **React**, utilizing **TypeScript** for type safety and **Tailwind CSS** for a polished UI.
@@ -31,8 +31,8 @@ A modern, full-stack blog application built with **Laravel**, **Inertia.js**, an
 This project uses **Laravel Sail** (Docker) for a consistent development environment. Ensure you have Docker Desktop installed and running.
 
 ### 1. Clone the repository
-```bash
-git clone <repository-url>
+
+git clone https://github.com/balintpethe/ominimo-blog.git
 cd ominimo-blog
 
 ```
