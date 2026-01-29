@@ -131,7 +131,12 @@ The UI is broken down into reusable components (e.g., `PostCard`, `CommentItem`,
 
 If you ran the seeder, you can log in with:
 
-* **Email:** `test@example.com`
+User:
+* **Email:** `user@example.com`
+* **Password:** `password`
+
+Admin:
+* **Email:** `admin@example.com`
 * **Password:** `password`
 
 Or register a new account at `/register`.
