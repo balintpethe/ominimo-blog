@@ -32,6 +32,7 @@ This project uses **Laravel Sail** (Docker) for a consistent development environ
 
 ### 1. Clone the repository
 
+```bash
 git clone https://github.com/balintpethe/ominimo-blog.git
 cd ominimo-blog
 
